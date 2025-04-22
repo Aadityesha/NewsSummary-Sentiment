@@ -1,4 +1,4 @@
-# 📚 Text Analytics Projects: Summarization & Sentiment Analysis
+# 📚 Summarization & Sentiment Analysis
 
 This repository contains two datasets used for Natural Language Processing (NLP) tasks — extractive summarization of BBC News articles and sentiment analysis of financial news headlines. These datasets are ideal for experimentation in text processing, summarization, sentiment classification, and building end-to-end NLP applications.
 
