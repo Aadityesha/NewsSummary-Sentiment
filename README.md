@@ -60,5 +60,5 @@ This project combines **text summarization** and **sentiment analysis** techniqu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/news-summary-sentiment.git
+   git clone https://github.com/Aadityesha/NewsSummary-Sentiment.git
    cd news-summary-sentiment
